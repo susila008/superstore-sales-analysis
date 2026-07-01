@@ -17,7 +17,7 @@ with 9,994 rows and 21 columns using Python.
 
 ## Charts
 ![Category Sales](chart1_category_sales.png)
-![Region Profit](chart2_region_profit.png)
+![Region Profit](Chart2_region_profit.png)
 ![Top States](chart3_top_states.png)
 ![Monthly Trend](chart4_monthly_trend.png)
 ![Segment Pie](chart5_segment_pie.png)
